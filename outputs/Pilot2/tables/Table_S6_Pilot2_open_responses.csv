@@ -1,0 +1,14 @@
+"record_type","condition","pattern","row_category","column_category","n","N","percent","test","statistic","df","p","note"
+"Condition distribution","Water Control","Plain water",,,31,47,65.9574468085106,,,,,
+"Condition distribution","Water Control","Attributed beverage identity",,,16,47,34.0425531914894,,,,,
+"Condition distribution","Olfactory Pod","Plain water",,,2,47,4.25531914893617,,,,,
+"Condition distribution","Olfactory Pod","Attributed beverage identity",,,45,47,95.7446808510638,,,,,
+"Paired pattern",,"Attributed beverage identity in both conditions",,,15,47,31.9148936170213,,,,,
+"Paired pattern",,"Plain water in both conditions",,,1,47,2.12765957446809,,,,,
+"Paired pattern",,"Water Control attributed beverage identity -> Olfactory Pod plain water",,,1,47,2.12765957446809,,,,,
+"Paired pattern",,"Water Control plain water -> Olfactory Pod attributed beverage identity",,,30,47,63.8297872340426,,,,,
+"Transition matrix",,,"Water Control: plain water","Olfactory Pod: plain water",1,47,2.12765957446809,,,,,
+"Transition matrix",,,"Water Control: attributed beverage identity","Olfactory Pod: plain water",1,47,2.12765957446809,,,,,
+"Transition matrix",,,"Water Control: plain water","Olfactory Pod: attributed beverage identity",30,47,63.8297872340426,,,,,
+"Transition matrix",,,"Water Control: attributed beverage identity","Olfactory Pod: attributed beverage identity",15,47,31.9148936170213,,,,,
+"Statistical test",,,,,31,47,,"Exact McNemar test",,,2.98023223876954e-08,"Expected shift = 30; reverse shift = 1"

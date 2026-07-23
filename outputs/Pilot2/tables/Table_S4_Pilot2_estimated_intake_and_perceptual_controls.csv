@@ -1,0 +1,4 @@
+"outcome","descriptive_metric","water_control","olfactory_pod","difference_P_minus_A","test","statistic","df","p","ci_lower","ci_upper","shapiro_difference_p","note"
+"Estimated amount consumed (ml)","Mean (SD)","234.88 (110.88)","203.83 (101.54)",-31.0510638297872,"Paired t-test",-2.2670295302536,46,0.0281336592835145,-58.6213044864025,-3.48082317317201,0.0955978353579051,"Actual intake was fixed at 200 ml in both conditions"
+"Intensity","Median","8.80","24.00",,"Paired Wilcoxon signed-rank test",166,,2.59393978015967e-05,,,0.0462032661068594,"Olfactory Pod rated as more intense"
+"Pleasantness","Median","49.20","43.00",,"Paired Wilcoxon signed-rank test",585,,0.630715493280325,,,0.0197001254044542,"No reliable difference in pleasantness"

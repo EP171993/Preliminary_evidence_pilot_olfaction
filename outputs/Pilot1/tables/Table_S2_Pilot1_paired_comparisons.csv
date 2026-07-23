@@ -1,0 +1,6 @@
+"measure","n_pairs","V","p_raw","p_holm","significance","p_text","plot_label"
+"Intensity",28,230.5,0.53844414187791,1,"ns","pHolm = 1.000","ns (pHolm = 1.000)"
+"Pleasantness",28,171.5,0.480127681588826,1,"ns","pHolm = 1.000","ns (pHolm = 1.000)"
+"Calories",28,80,0.0801054700039781,0.400527350019891,"ns","pHolm = .401","ns (pHolm = .401)"
+"Sugar",28,184.5,0.562679983906565,1,"ns","pHolm = 1.000","ns (pHolm = 1.000)"
+"Fat",28,77,0.11075379972864,0.443015198914561,"ns","pHolm = .443","ns (pHolm = .443)"
