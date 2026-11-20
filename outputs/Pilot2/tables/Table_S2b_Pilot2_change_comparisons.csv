@@ -1,0 +1,19 @@
+"family","comparison","larger_pod_change","estimate","SE","df","t.ratio","p.value","p_fdr","method","mean_change_second_minus_first","n_second_larger","n_first_larger","n_equal","V"
+"Nutritional attribution","Fat - Calories","Calories",74.0425531914894,11.7780193351205,92,6.28650294117824,0.0000000107245899000456,0.0000000160868848500684,"ART-C interaction contrast",,,,,
+"Nutritional attribution","Fat - Sugar","Sugar",112.978723404255,11.7780193351205,92,9.59233638438404,0.0000000000000016446678535498,0.00000000000000493400356064941,"ART-C interaction contrast",,,,,
+"Nutritional attribution","Calories - Sugar","Sugar",38.9361702127659,11.7780193351205,92,3.3058334432058,0.00135121595519313,0.00135121595519313,"ART-C interaction contrast",,,,,
+"Taste profile","Bitter - Sour","Bitter",-15.4893617021274,17.9953237691783,138,-0.860743707687937,0.390872212003888,0.469046654404665,"ART-C interaction contrast",,,,,
+"Taste profile","Bitter - Sweet","Sweet",216.553191489361,17.9953237691783,138,12.0338591440219,0.0000000000000000000000296326334398945,0.0000000000000000000000592652668797891,"ART-C interaction contrast",,,,,
+"Taste profile","Bitter - Salt","Bitter",-24.5957446808511,17.9953237691783,138,-1.36678533803197,0.173915159683295,0.260872739524942,"ART-C interaction contrast",,,,,
+"Taste profile","Sour - Sweet","Sweet",232.042553191489,17.9953237691783,138,12.8946028517099,0.000000000000000000000000184755487206263,0.00000000000000000000000055426646161879,"ART-C interaction contrast",,,,,
+"Taste profile","Sour - Salt","Sour",-9.10638297872367,17.9953237691783,138,-0.50604163034403,0.613634854527195,0.613634854527195,"ART-C interaction contrast",,,,,
+"Taste profile","Sweet - Salt","Sweet",-241.148936170213,17.9953237691783,138,-13.4006444820539,0.00000000000000000000000000947780153094641,0.0000000000000000000000000568668091856785,"ART-C interaction contrast",,,,,
+"Nutritional attribution","Fat - Calories",,,,,,0.000453112575222124,0.000679668862833186,"Paired Wilcoxon on difference between changes (robustness)",8.91063829787234,34,12,1,862
+"Nutritional attribution","Fat - Sugar",,,,,,0.00000446106807436879,0.0000133832042231064,"Paired Wilcoxon on difference between changes (robustness)",14.9255319148936,39,7,1,961
+"Nutritional attribution","Calories - Sugar",,,,,,0.00551870561082111,0.00551870561082111,"Paired Wilcoxon on difference between changes (robustness)",6.01489361702128,30,16,1,795
+"Taste profile","Bitter - Sour",,,,,,0.370922657947029,0.370922657947029,"Paired Wilcoxon on difference between changes (robustness)",-0.8,13,17,17,188.5
+"Taste profile","Bitter - Sweet",,,,,,0.00000049935482378251,0.000000998709647565021,"Paired Wilcoxon on difference between changes (robustness)",22.2723404255319,40,7,0,1039.5
+"Taste profile","Bitter - Salt",,,,,,0.0197088591984982,0.0236506310381979,"Paired Wilcoxon on difference between changes (robustness)",-2.86595744680851,13,20,14,149.5
+"Taste profile","Sour - Sweet",,,,,,0.000000389241965450325,0.000000998709647565021,"Paired Wilcoxon on difference between changes (robustness)",23.0723404255319,40,7,0,1044
+"Taste profile","Sour - Salt",,,,,,0.00217933264542128,0.00326899896813192,"Paired Wilcoxon on difference between changes (robustness)",-2.06595744680851,8,25,14,108.5
+"Taste profile","Sweet - Salt",,,,,,0.000000128807811103822,0.000000772846866622934,"Paired Wilcoxon on difference between changes (robustness)",-25.1382978723404,5,42,0,64.5

@@ -11,4 +11,4 @@
 "Transition matrix",,,"No Olfactory Pod: attributed beverage identity","Olfactory Pod: plain water",1,47,2.12765957446809,,,,,
 "Transition matrix",,,"No Olfactory Pod: plain water","Olfactory Pod: attributed beverage identity",30,47,63.8297872340426,,,,,
 "Transition matrix",,,"No Olfactory Pod: attributed beverage identity","Olfactory Pod: attributed beverage identity",15,47,31.9148936170213,,,,,
-"Statistical test",,,,,31,47,,"Exact McNemar test",,,2.98023223876954e-08,"Expected shift = 30; reverse shift = 1"
+"Statistical test",,,,,31,47,,"Exact McNemar test",,,0.0000000298023223876954,"Expected shift = 30; reverse shift = 1"

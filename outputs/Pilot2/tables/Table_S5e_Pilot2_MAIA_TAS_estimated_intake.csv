@@ -1,0 +1,10 @@
+"variable","with","method","coefficient","p","p_fdr"
+"maia_noticing","diff_ingested_estimate","spearman",-0.0851800689056417,0.569168438572748,0.854859670466481
+"maia_not_distracting","diff_ingested_estimate","spearman",0.139633051993856,0.349223923152181,0.854859670466481
+"maia_not_worrying","diff_ingested_estimate","spearman",-0.0629567455857349,0.674189642646085,0.854859670466481
+"maia_attention_regulation","diff_ingested_estimate","spearman",-0.0369759683197035,0.805099549207016,0.854859670466481
+"maia_emotional_awareness","diff_ingested_estimate","spearman",-0.0274150530798135,0.854859670466481,0.854859670466481
+"maia_self_regulation","diff_ingested_estimate","spearman",-0.100889282992779,0.49982693245619,0.854859670466481
+"maia_body_listening","diff_ingested_estimate","spearman",0.203167724261922,0.170788264227345,0.768547189023054
+"maia_trusting","diff_ingested_estimate","spearman",0.0390077265669067,0.794615821866038,0.854859670466481
+"tas","diff_ingested_estimate","spearman",-0.23661814065519,0.109305301946447,0.768547189023054
